@@ -4,7 +4,23 @@
 
 ![Methodology Diagram](https://raw.githubusercontent.com/porcupine12345/MultiModal_Dense_Video_Captioning/main/CV_Methodology_Diagram%20(1).png)
 
+## Purpose and Background
 
+This repository performs **Multi-Modal Dense Video Captioning** and significantly enhances the original architecture proposed by V. Iashin (MDVC).
+
+### 🔍 Key Contributions
+
+The three main novelties introduced in this work are:
+
+1. **Hierarchical Text Understanding Module**  
+   A module designed to capture both sentence-level context and word-level details from subtitles, ensuring that the linguistic content is accurately reflected in the final captions. This hierarchical approach allows the model to better handle complex sentence structures and long-term dependencies in text.
+
+2. **Recursive Audio Transformer (Audio Enhancement)**  
+   An advanced transformer architecture for processing audio signals, capable of capturing both speech patterns and background sounds. This component enhances the model’s ability to capture subtle audio cues that are often critical for accurate event descriptions.
+
+3. **Spatiotemporal Attention Mechanism for Video**  
+   A specialized attention mechanism that captures both spatial and temporal features in video frames, helping the model focus on the most relevant regions over time—even in complex, fast-paced scenes.
+ 
 ## Usage
 
 ```bash
