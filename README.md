@@ -2,7 +2,7 @@
 
 
 
-![Method Diagram](CV_Methodology_Diagram (1).png)
+![Methodology Diagram](https://raw.githubusercontent.com/porcupine12345/MultiModal_Dense_Video_Captioning/main/CV_Methodology_Diagram%20(1).png)
 
 
 ## Usage
