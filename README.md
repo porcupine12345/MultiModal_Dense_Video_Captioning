@@ -1,6 +1,9 @@
 # MultiModal_Dense_Video_Captioning
 
-![Screenshot](CV_Methodology_Diagram (1).png)
+
+
+![Method Diagram](CV_Methodology_Diagram (1).png)
+
 
 ## Usage
 
